@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Speak With Me</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="bt_cancel">Cancelar</string>
+    <string name="bt_aceptar">Aceptar</string>
+    <string name="bt_sp">Español</string>
+    <string name="bt_en">Inglés</string>
+    <string name="error_reproductor">Reproductor no disponible</string>
+    <string name="sw_sound">Sonido</string>
+    <string name="cb_grave">Grave</string>
+    <string name="cb_agudo">Agudo</string>
+    <string name="tv_velocidad">Velocidad</string>
+
+</resources>
